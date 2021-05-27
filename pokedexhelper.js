@@ -1,4 +1,3 @@
-```js
 const Pokedex = require('pokedex-promise-v2'); 
 const api = new Pokedex(); 
 module.exports = {
@@ -25,4 +24,4 @@ module.exports = {
             }
         });
 	}
-}```
+}
