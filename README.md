@@ -10,7 +10,7 @@
  ```Use - $pokedex <pokemon>```
  
  **For Self Hosting 🚩**
-   ```$git clone https://github.com/NotGubeesh/Pokedex-Discord-Bot```
+   ```$git clone https://github.com/Nandk/Pokedex-Discord-Bot```
     start - node index.js
  
  **Feel Free To Open An Issue If You Find Any Bugs.**
